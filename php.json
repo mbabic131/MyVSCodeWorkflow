@@ -1,0 +1,25 @@
+{
+/*
+  // PHP Snippets
+*/
+
+	"Die and dump": {
+		"prefix": "dd",
+		"body": [
+			"echo '<pre>';",
+			"print_r($1);",
+			"die();"
+		],
+		"description": "Dump variable and die"
+	},
+
+	"Die and var dump": {
+		"prefix": "ddv",
+		"body": [
+			"var_dump($1);",
+			"die();"
+		],
+		"description": "Var dump variable and die"
+	}
+
+}
