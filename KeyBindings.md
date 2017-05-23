@@ -6,4 +6,8 @@ VS Code
  * ctrl+g => Go to line
  * ctrl+r => Go to symbol in file
  * ctrl+shift+r => Go to symbol in project
- * ctr+shift+p => All settigns
+ * ctrl+shift+p => All settigns
+ * ctrl+shift+D => Copy line and insert above
+ * ctrl+shift+K => Delete line
+ * Shift+Alt+(mouse selection) => multiple cursors
+ * Ctrl+Space => invoke intelli sense
