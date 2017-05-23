@@ -1,4 +1,4 @@
-## visual Studio Code Key Bindings
+## Visual Studio Code Key Bindings
 ===============
 
 VS Code
