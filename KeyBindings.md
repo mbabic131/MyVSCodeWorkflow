@@ -1,13 +1,22 @@
-## Visual Studio Code Key Bindings
-===============
+# Navigate
 
-VS Code
- * ctr+p => Go to file
- * ctrl+g => Go to line
- * ctrl+r => Go to symbol in file
- * ctrl+shift+r => Go to symbol in project
- * ctrl+shift+p => All settigns
- * ctrl+shift+D => Copy line and insert above
- * ctrl+shift+K => Delete line
- * Shift+Alt+(mouse selection) => multiple cursors
- * Ctrl+Space => invoke intelli sense
+Crtl+P => Go to file
+
+Ctrl+R => Go to symbol 
+
+Ctrl+Shift+R => Go to symbol in project
+
+Ctlr+, => Go to settigns
+
+
+# Files
+
+Ctrl+Shift+O => Open folder (project)
+
+Ctrl+K+S => Keyboard mapping
+
+Ctrl+Alt+N => New file
+
+Ctr+K+B => Show/Hide File Explorer
+
+Ctrl+Shift+X => Show/Hide Extensions
